@@ -1,6 +1,10 @@
-import iml.Bear;
-import iml.Fur;
-import iml.Whale;
+import one.iml.Bear;
+import one.iml.Fur;
+import one.iml.Whale;
+
+import two.iml.Helicopter;
+
+
 
 public class Main {
     public static void main(String[] args) {
@@ -10,5 +14,6 @@ public class Main {
         Whale whale = new Whale("Ландыш");
         whale.eat();
         whale.liveInWater();
+
     }
 }

@@ -1,6 +1,6 @@
-package models;
+package one.models;
 
-import interfaces.AquaticLiving;
+import one.interfaces.AquaticLiving;
 
 public abstract class Fish extends Animal implements AquaticLiving {
 

@@ -1,7 +1,7 @@
-package iml;
+package one.iml;
 
-import interfaces.AquaticLiving;
-import models.Mammal;
+import one.interfaces.AquaticLiving;
+import one.models.Mammal;
 
 public class Whale extends Mammal implements AquaticLiving {
     public Whale(String name) {
@@ -15,6 +15,6 @@ public class Whale extends Mammal implements AquaticLiving {
 
     @Override
     public void liveInWater() {
-        System.out.print("🌊🌊🌊🌊🌊🌊🌊🌊🌊");
+        System.out.println("🌊🌊🌊🌊🌊🌊🌊🌊🌊");
     }
 }

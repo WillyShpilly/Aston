@@ -1,4 +1,4 @@
-package models;
+package one.models;
 
 public abstract class Animal {
     private final String name;

@@ -1,6 +1,6 @@
-package iml;
+package one.iml;
 
-import models.Mammal;
+import one.models.Mammal;
 
 public class Bear extends Mammal {
     private final Fur fur;
