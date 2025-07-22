@@ -1,4 +1,4 @@
-package one.iml;
+package one.impl;
 
 public class Fur {
     private final String color;

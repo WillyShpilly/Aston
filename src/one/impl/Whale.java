@@ -1,4 +1,4 @@
-package one.iml;
+package one.impl;
 
 import one.interfaces.AquaticLiving;
 import one.models.Mammal;

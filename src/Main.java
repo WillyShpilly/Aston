@@ -1,9 +1,6 @@
-import one.iml.Bear;
-import one.iml.Fur;
-import one.iml.Whale;
-
-import two.iml.Helicopter;
-
+import one.impl.Bear;
+import one.impl.Fur;
+import one.impl.Whale;
 
 
 public class Main {

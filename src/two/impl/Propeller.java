@@ -1,4 +1,4 @@
-package two.iml;
+package two.impl;
 
 public class Propeller {
     private final String type;
